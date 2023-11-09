@@ -7,3 +7,7 @@ for el in listas:
 
 print('Hello from Jonas!')
 print('Well hello there!')
+
+import math
+
+print(math.pi)
