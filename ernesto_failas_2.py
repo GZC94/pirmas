@@ -1,1 +1,2 @@
 print("Nieko.")
+print("Gero.")
